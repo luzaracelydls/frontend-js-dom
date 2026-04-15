@@ -5,10 +5,10 @@ Manipular el DOM dinámicamente y manejar eventos de usuario para construir una 
 ### Instrucciones
 
 1. Implementa el diseño en https://www.figma.com/make/XaJBCbqDtva7Eytn0vuCFd/To-Do-List-App?t=xy2y9CChqIeyB5ul-1 (ver el prototipipo en [Figma](figma.com/make/XaJBCbqDtva7Eytn0vuCFd/To-Do-List-App?fullscreen=1))
-Agregar nuevas tareas desde un campo de entrada
-Marcar tareas como completadas
-Eliminar tareas
-Mostrar un contador de tareas pendientes
+2. Agregar nuevas tareas desde un campo de entrada
+3. Marcar tareas como completadas
+4. Eliminar tareas
+5. Mostrar un contador de tareas pendientes
 
 ### Requisitos:
 **1. Debes implementar tu solución utilizando únicamente JavaScript puro (sin librerías)**
